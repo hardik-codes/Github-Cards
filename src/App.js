@@ -21,7 +21,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <a href="https://github.com/hardik-codes/forum"><img src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png"
+        <a href="https://github.com/hardik-codes/Github-Cards"><img src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png"
 alt="Fork me on GitHub"/>
       </a>
         <Profile info={this.state} />
