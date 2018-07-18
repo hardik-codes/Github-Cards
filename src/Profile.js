@@ -8,7 +8,7 @@ const Profile = (props) => {
     let following = `${info.webAddress}/?tab=following`;
     
     if (info.notFound === 'Not Found') {
-        return <h3 className="userNotFound">User not found. <br>Try Again!!</h3>
+        return <h3 className="userNotFound">User not found. Try Again!!</h3>
     } else {
       
       return (
