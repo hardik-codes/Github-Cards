@@ -21,7 +21,6 @@ class App extends Component {
   render() {
     return (
       <div>
-        
         <Profile info={this.state} />
         <Quest getUser={this.getUser.bind(this)}/>
       </div>
