@@ -13,11 +13,7 @@ class App extends Component {
       repos: '',
       followers: '',
       pic: '',
-      notFound: '',<a href="https://github.com/hardik-codes/Github-Cards"><img src="https://s3.am<a href="https://github.com/hardik-codes/Github-Cards"><img src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png"
-+-alt="Fork me on GitHub"/>
-+-      </a>azonaws.com/github/ribbons/forkme_right_white_ffffff.png"
-+-alt="Fork me on GitHub"/>
-+-      </a>
+      notFound: '',
       following:''
       
     }
